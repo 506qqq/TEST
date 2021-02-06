@@ -1,0 +1,10 @@
+doctype html
+head
+  meta(charset='utf8')
+  title 506qqq
+  link(href="./style.css" rel="stylesheet")
+
+header
+  h1.title 試験的に
+  p ああああああ
+  a(href="./pug/test/test.txt" download) download

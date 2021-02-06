@@ -1,3 +1,4 @@
 index.pug~
 .gitignore~
-./pug/test/pug~
+style.sass~
+#index.pug#

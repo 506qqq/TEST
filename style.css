@@ -1,0 +1,18 @@
+* {
+  margin: 0px; }
+
+header {
+  width: auto;
+  height: 100px;
+  background-color: #EEEEEE; }
+  header h1 {
+    font-color: gray;
+    font-size: 50px;
+    text-align: center; }
+
+main_area main_title {
+  font-size: 20px; }
+main_area main_content {
+  font-size: 10px; }
+
+/*# sourceMappingURL=style.css.map */
