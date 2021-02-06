@@ -8,3 +8,4 @@ html(lang="ja")
     h1#sitettl Pugタイトル
     main.main
       h2.content_ttl サブタイトル
+
